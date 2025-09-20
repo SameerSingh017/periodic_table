@@ -25,4 +25,4 @@ A visually engaging and searchable interactive periodic table built with **HTML*
 
 ## Live Demo
 
-[View on GitHub Pages](https://sameer-saifi1b.github.io/interactive-periodic-table/)
+[View Live Page](https://elementalui.netlify.app)
