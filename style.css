@@ -143,5 +143,14 @@
     outline: 3px solid #38bdf8;
     transform: scale(1.1);
   }
+.footer {
+  margin-top: 30px;
+  text-align: center;
+  color: var(--muted, #94a3b8); /* fallback if --muted not defined */
+  font-size: 14px;
+  padding: 10px 0;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
   
   
