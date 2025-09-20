@@ -19,7 +19,7 @@ A visually engaging and searchable interactive periodic table built with **HTML*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sameer-saifi1b/interactive-periodic-table.git
+   git clone https://github.com/SameerSingh017/periodic_table.git
    ```
 2. Open index.html in any modern web browser.
 
