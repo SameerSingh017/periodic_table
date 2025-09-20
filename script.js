@@ -285,4 +285,17 @@ document.getElementById("search").addEventListener("input", (e) => {
       details.style.display = "none";
     }
   });
+const footer = document.getElementById("footer");
+
+function updateFooter() {
+  const year = new Date().getFullYear();
+  footer.textContent = `Sameer Singh © ${year}`;
+}
+
+// Initial call
+updateFooter();
+
+// Update every second (optional, keeps year accurate if page stays open over New Year)
+setInterval(updateFooter, 1000);
+
   
