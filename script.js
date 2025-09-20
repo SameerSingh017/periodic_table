@@ -221,7 +221,9 @@ const elements = [
       const div=document.createElement("div"); div.className=`element cat-${key}`; div.textContent=el.symbol;
       div.addEventListener("click",()=>renderDetails(el)); addHover(div,el); wrap.appendChild(div);
     }
-    table.parentElement.appendChild(wrap);
+    
+    table.insertAdjacentElement("afterend", wrap);
+
   }
   addSeries(57,71,"Lanthanides");
   addSeries(89,103,"Actinides");
