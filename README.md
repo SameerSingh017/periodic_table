@@ -62,6 +62,5 @@ cd periodic_table
 
 ## Author
 
-**Sameer Singh**
-
-📧 Email: sameer0555singh@gmail.com
+- **Sameer Singh**
+- 📧 Email: sameer0555singh@gmail.com
